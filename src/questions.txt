@@ -1,0 +1,3 @@
+What shapes are visible in the images, and how many of them are there?
+How many cubes are there?
+What does the ground of the image look like?
